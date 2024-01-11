@@ -1,0 +1,15 @@
+form,h1,.alert{
+    margin-left: 25%;
+}
+
+.alert{
+    width: 50%;
+}
+
+.card{
+    display: inline-block;
+    vertical-align: top;
+    margin: 3% 4%;
+    padding: 6px;
+    box-shadow: 0 0 10px rgba(0,0,0)
+}
